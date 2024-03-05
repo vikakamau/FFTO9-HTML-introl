@@ -1,0 +1,24 @@
+body{
+    background-color: orchid;
+    h1{
+        color: green;
+    }
+    h2{
+        color: red;
+    }
+    h3{
+        color: orange;
+    }
+    h4{
+        color: blue;
+    }
+    h5{
+        color: yellow;
+    }
+    h6{
+        color: brown;
+    }
+    p{
+        color: blue;
+    }
+}
